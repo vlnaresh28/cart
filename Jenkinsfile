@@ -1,4 +1,4 @@
 @Library('roboshop') _
 
-env.app_lang="node.js"
+env.app_lang = "nodejs"
 ci()
